@@ -1,6 +1,6 @@
 extern printf
 
-.section .data
+.section data
 	msg db "Hi"
 
 .section code
