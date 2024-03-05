@@ -1,3 +1,6 @@
+
+; nasm x64 intel-syntax
+
 extern printf
 
 .section data
