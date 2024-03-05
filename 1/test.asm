@@ -1,5 +1,5 @@
 
-; nasm x64 intel-syntax
+; nasm x64 intel-syntax os: windows
 
 extern printf
 
